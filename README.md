@@ -1,4 +1,4 @@
-## Hi there 👋
+## Xin chào 👋
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
 <!--
