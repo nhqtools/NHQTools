@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Đây là Git chính thức của NHQTools.
+Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
 <!--
 **nhqtools/NHQTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
