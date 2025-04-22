@@ -1,17 +1,39 @@
 ## Xin chào 👋
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
-<!--
-**nhqtools/NHQTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+----
+Sau nhiều lần trì hoãn, hôm nay, mình chính thức mở bán công cụ hỗ trợ cho các anh em đang làm mảng video youtube và tiktok beta, đặc biệt là những anh em làm reup và review phim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bộ công vụ NHQTools sử dụng các mô hình trí tuệ nhân tạo mới nhất:
+Mình xin phép được giới thiệu qua các tính năng cơ bản của Tool:
+
+- **Tải video đa nền tảng** miễn phí, không giới hạn (hỗ trợ hầu hết các nền tảng video hiện nay như **Youtube**, **Tiktok**, **Douyin**, Instagram, Facebook, X (Twitter), Vimeo, Dailymotion... với tốc độ và trải nghiệm tốt nhất.
+ - **Tạo phụ đề tự động** cho Video hỗ trợ hầu hết các ngôn ngữ: Sử dụng các mô hình Speech to text đầy đủ, đảm bảo chất lượng tốt nhất. Miễn phí 100% tạo phụ đề với whisper;
+ - **Tự động nhận diện nhân vật** khi tạo phụ đề, đảm bảo các đoạn phụ đề gắn đúng với nhân vật trong video.
+ - **Tự động dịch** sang nhiều ngôn ngữ, hỗ trợ dịch song song nhiều ngôn ngữ trong một lần. NHQTools sử dụng các mô hình AI để dịch phụ đề đảm bảo chất lượng phụ đề là tốt nhất. **Miễn phí 100% dịch phụ đề với Gemini AI và tất nhiên rồi, miễn phí 100% với Google Translate**. Anh em có thể sử dụng nhiều mô hình AI như DeepSeek, ChatGPT, Claude, Gemini... 
+ - Hỗ trợ dịch phụ đề với các **prompt tuỳ chỉnh**: Hỗ trợ dịch phụ đề theo prompt tuỳ chỉnh cho anh em có nhu cầu, và linh hoạt hơn đối với từng nội dung khác nhau.
+ - **Tóm tắt video nhanh chóng**, **tổng hợp nhân vật trong video tự động**: Tính năng này giúp anh em có thể hiểu được nội dung để có thể áp dụng cho các prompt tuỳ chỉnh.
+ - **Chỉnh sửa trực tiếp phụ đề** trong Tool: Anh em có thể chỉnh sửa phụ đề trực tiếp trong tool và lưu trạng thái chỉnh sửa, giúp anh em kiểm soát tốt nội dung trước khi chuyển giọng hoặc xuất phụ đề.
+ - **Xuất phụ đề và xuất phụ đề sang Cacpcut**: Anh em có thể xuất phụ đề để phục vụ các mục đích khác, hoặc xuất phụ đề sang Capcut để tạo giọng đọc miễn phí nhanh chóng.
+ - **Tách frames ảnh từ video:** Đây là tính năng rất hay đối với các anh em làm video anime, video manga hoặc review truyện tranh. Tool sẽ trích xuất các frames (ảnh) và ghép lại với nhau đồng nhất hoàn toàn với giọng đọc đảm bảo anh em sản xuất video một cách đơn giản nhất có thể.
+ - **Xuất video và dự án capcut**: Một trong những tính năng được rất nhiều anh em đề xuất đó là xuất video, frames qua capcut. Tool tự động xuất các frames ảnh, tự động áp dụng các hiệu ứng ngẫu nhiên hoặc thủ công và tự động tạo dự án capcut, công việc còn lại của anh em chỉ là mở capcut và render. Tool hỗ trợ gần 1000 hiệu ứng video và ảnh khác nhau, anh em có thể thoải mái lựa chọn.
+ - **Xuất video tuỳ chỉnh**: Anh em cũng có thể xuất video trực tiếp từ tool, hỗ trợ các kích thước, độ phân dải phổ biến (Video dọc 9:16, video ngang 16:9, video chuẩn TV 4:3, hay video vuông 1:1); Hỗ trợ xuất video lên đến 4k. 
+ - **Hỗ trợ đồng bộ âm thanh, video và phụ đề**: Khi xuất video anh em có thể đồng bộ thời gian cho video, âm thanh cũng như phụ đề, đảm bảo mọi thứ đồng bộ, khớp và không bị chống lấn hay méo mó âm thanh. Anh em có thể sử dụng các phương thức đồng bộ như **Đồng bộ âm thanh**, **đồng bộ video**, tuỳ chỉnh chế độ cắt thông minh để đảm bảo video xuất ra là unique.
+ - **Về giọng đọc:** NHQTools hỗ trợ anh em tạo giọng đọc AI linh hoạt với hàng nghìn giọng đọc khác nhau cho mọi ngôn ngữ với mức giá cực kỳ ưu đãi, và tất nhiên vẫn là "**Miễn phí 100% với giọng đọc chị Google**" :)
+ - **Tạo giọng đọc tuỳ chỉnh với Clone giọng miễn phí**: Anh em có thể clone giọng đọc của chính mình để sử dụng cho video, hoặc clone giọng bất kỳ. Tuy nhiên, với tính năng clone giọng đọc này, NHQTools không hỗ trợ tự động, anh em có thể gửi trực tiếp yêu cầu, sau đó bên mình sẽ kiểm tra và đảm bảo không vi phạm các điều khoản của NHQTools. 
+ - Chỉnh sửa, thực hiện chuyển đổi văn bản thành giọng đọc với **NHQTTS Studio**: Mình cũng hỗ trợ thêm một phần riêng biệt cho anh em nào chỉ sử dụng tính năng chuyển văn bản thành giọng đọc. Với NHQTTS Studio, anh em có thể tải lên văn bản Word, tệp PDF hay file text đơn thuần, tool sẽ đọc nội dung và chuyển văn bản thành giọng đọc một cách nhanh chóng.
+
+Còn rất nhiều các tính năng hay cũng như nâng cao khác được tích hợp sẵn trong tool. Anh em có thể dùng thử và nếu thấy hợp thì hãy ủng hộ mình nhé.
+
+Hiện tại, tool hỗ trợ trên Windows. Anh em nào có nhu cầu chạy trên Mac (Intel hay Silicon) hoặc build bản riêng cho linux thì hãy liên hệ với mình nhé.
+
+Anh em có thể xem qua chi tiết các tính năng của tool và hướng dẫn sử dụng chi tiết tại trang chủ NHQTools: https://nhq.tools
+- Tài liệu hướng dẫn: https://nhq.tools/docs/nhq-vid/setup
+- Giới thiệu tổng quan: https://nhq.tools/vi/features/nhq-vid
+- Tải về và cài đặt: https://nhq.tools/downloads
+- Liên hệ: https://nhq.tools/contact
+
+Cảm ơn anh em đã xem.
+Rất mong được sử ủng hộ của anh em.
+
