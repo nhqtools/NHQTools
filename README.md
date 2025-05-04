@@ -2,7 +2,7 @@
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
 
-## Phiên bản mới nhất:
+## Phiên bản mới nhất v2.1.0:
 NHQ Video Tools (NHQTTS Studio) v2.1.0
 Phiên bản cập nhật mới nhất: 2.1.0
 Bản update nhiều tính năng và tối ưu hiệu suất.
