@@ -2,6 +2,22 @@
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
 
+## Phiên bản mới nhất:
+NHQ Video Tools (NHQTTS Studio) v2.1.0
+Phiên bản cập nhật mới nhất: 2.1.0
+Bản update nhiều tính năng và tối ưu hiệu suất.
+- Cập nhật thêm 2 phương thức chuyển giọng trong TTS Studio, hiển thị chi tiết tiến trình tạo giọng trong studio
+- Hỗ trợ tạo giọng nói theo phong cách đối với voice ChatGPT custom
+- Cải thiện hiệu suất khi export Video, điều chỉnh khớp hoàn toàn với audio và phụ đề trong trường hợp đồng bộ bằng cách điều chỉnh video
+- Hỗ trợ các layout trên video (logo, fill, blur...)
+- Thêm phụ đề nhanh chóng trên video
+- Hiển thị chi tiết tiến trình tạo voice, nâng cao trải nghiệm
+- Kiểm tra phụ đề đảm bảo phụ đề khớp trước khi tạo giọng.
+- Hỗ trợ tạo prompt dịch tự động (prompt đề xuất bằng AI) dựa trên ngữ cảnh cũng như các nhân vật trong video.
+- Fix một số lỗi khác...
+**Mời anh em download trải nghiệm**
+https://nhq.tools/downloads
+
 ----
 Sau nhiều lần trì hoãn, hôm nay, mình chính thức mở bán công cụ hỗ trợ cho các anh em đang làm mảng video youtube và tiktok beta, đặc biệt là những anh em làm reup và review phim.
 
