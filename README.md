@@ -1,6 +1,9 @@
 ## Xin chào 👋
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
+## Các kênh:
+- Youtube: https://www.youtube.com/@nhqtools
+- Facebook: https://www.facebook.com/nhqtools/
 
 ## Phiên bản mới nhất v2.2.2 (2025-05-12):
 Cập nhật rất nhiều các tính năng, fix lỗi và cải thiện hiệu suất
