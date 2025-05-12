@@ -2,7 +2,25 @@
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
 
-## Phiên bản mới nhất v2.1.0 (2025-05-04):
+## Phiên bản mới nhất v2.2.2 (2025-05-12):
+Cập nhật rất nhiều các tính năng, fix lỗi và cải thiện hiệu suất
+- Fix lỗi khi xuất capcut với phương thức đồng bộ là video
+- Fix lỗi và cải thiện hiệu suất tạo giọng bằng ChatGPT
+- Thêm tính năng chia sẻ credits giữa các thành viên
+- Fix một số lỗi nhỏ
+- Cải thiện hiệu suất và thêm theo dõi tiến trình với Elevenlabs2
+- Cải thiện và fix lỗi khi xuất video.
+- Thêm cấu hình đồng nhất video để tránh lỗi khi xuất.
+- Fix lỗi tạo phụ đề gemini trên Windows.
+- Thêm theo dõi tiến trình khi tạo phụ đề với gemini.
+- Cải tiến tính năng ghép ảnh độc quyền (Độc quyền cho từng khách hàng)
+- Fix lỗi thanh toán tự động khi nạp tiền.\nCải thiện nhiều tính năng khác.
+- Fix lỗi tính số ký tự unicode.
+- Fix lỗi tách frames với CPU.
+- Cải thiện chất lượng tiếng Việt khi dùng ChatGPT TTS
+- ...
+
+## Phiên bản v2.1.0 (2025-05-04):
 NHQ Video Tools (NHQTTS Studio) v2.1.0
 Phiên bản cập nhật mới nhất: 2.1.0
 Bản update nhiều tính năng và tối ưu hiệu suất.
