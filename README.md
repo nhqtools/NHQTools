@@ -2,6 +2,7 @@
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
 ## Các kênh:
+- Website chính thức: https://nhq.tools
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
