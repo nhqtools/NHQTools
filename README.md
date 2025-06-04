@@ -6,6 +6,17 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản mới nhất v.2.4.7 (2025-06-04):
+**NHQTools cập nhật các tính năng mới cho TTS STUDIO**
+- Thêm tính năng delay giữa các đoạn/ phần/ chương.
+- Tạo giọng đọc cho nhiều file cùng một lúc
+Các tính năng thử nghiệm trong thời gian tới (chưa ra mắt):
+- Cho phép tạo nhiều giọng trong cùng một lần chuyển đổi (kiểu đối thoại)
+- Custom giọng khi sử dụng elevenlabs (nhấn nhá, ngữ điệu tuỳ chỉnh)
+> Ngoài ra, anh em tham khảo cách tạo giọng đọc, lồng tiếng cho file phụ đề bên Video Tools nhé. Thấy nhiều anh em muốn tạo giọng đọc cho phụ đề, nhưng lại không để ý bên Video Tools có sẵn.
+> Anh em dùng Video Tools chỉ cần click vào "Kết nối Video Tools" thôi nhé.
+Mời anh em trải nghiệm và xem clip tại kênh chính thức của NHQTools: @nhqtoools
+
 ## Phiên bản mới nhất v2.2.2 (2025-05-12):
 Cập nhật rất nhiều các tính năng, fix lỗi và cải thiện hiệu suất
 - Fix lỗi khi xuất capcut với phương thức đồng bộ là video
