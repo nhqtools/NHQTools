@@ -6,6 +6,31 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản cập nhật 2.5.7 (2025-06-16):
+**NHQTools cập nhật các tính năng mới cho TTS STUDIO và Video Tools**
+- Thêm Q-CLONE vào danh sách dịch vụ giọng trong Video Tools
+- Fix lỗi Ele2 trong Video Tools
+- Fix một số lỗi khi xuất video
+
+**Với TTS Studio**
+TTS Studio mới update một vài tính năng AI mới. Anh em xem có hỗ trợ gì cho công việc không nhé.
+1. Tự động kiểm tra chính tả AI
+- Kiểm tra lỗi chính tả
+- Gợi ý cách đọc với các từ không phải tiếng Việt (ví dụ: indonesia => in-đô-nê-xi-a)
+- Chỉnh sửa các câu dài thành câu ngắn hơn phù hợp để tạo giọng mà không bị nuốt từ hay vấp từ
+- Tự động chuyển đổi số thành chữ, ngày tháng thành chữ, các đơn vị tiền tệ, khối lượng... đảm bảo giữ nguyên ý nghĩa
+- Tự động kiểm tra lỗi ký tự ẩn khi văn bản đầu vào được tạo ra bởi các AI
+
+2. Tóm tắt nội dung bằng AI
+- Tự động tóm tắt nội dung với 2 phiên bản: Ngôn ngữ gốc và Tiếng Việt
+
+3. Tạo thumbnail tự động
+- Tạo prompt và thumbnail tự động cho đoạn văn bản đầu vào
+- Có thể tuỳ chỉnh prompt trước khi tạo
+- Có thể chọn kích thước khung hình phù hợp các loại video dọc, ngang.
+
+  
+
 ## Phiên bản mới nhất v.2.4.7 (2025-06-04):
 **NHQTools cập nhật các tính năng mới cho TTS STUDIO**
 - Thêm tính năng delay giữa các đoạn/ phần/ chương.
