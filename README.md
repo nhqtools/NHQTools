@@ -6,6 +6,13 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản cập nhật 2.8.4 (2025-07-25):
+**Cập nhật tính năng mới cho Video Tools**
+- Thêm tính năng tạo phụ đề từ Sub cứng trong video
+- Fix lỗi download video QQ
+- Fix một số lỗi nhỏ khác.
+
+
 ## Phiên bản cập nhật 2.5.7 (2025-06-16):
 **NHQTools cập nhật các tính năng mới cho TTS STUDIO và Video Tools**
 - Thêm Q-CLONE vào danh sách dịch vụ giọng trong Video Tools
