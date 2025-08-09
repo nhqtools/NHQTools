@@ -6,6 +6,29 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+
+## Phiên bản cập nhật 2.9.3 (2025-08-09):
++ Cải thiện tạo giọng với Minimax
++ Tăng tốc gấp hơn 4 lần với Recut trong Video Tools
++ Fix lỗi xuất phụ đề sang capcut
++ Fix nhiều bug nhỏ khác.
+
+NHQTools liên tục cập nhật các bản vá lỗi, nâng cao trải nghiệm người dùng cho các dịch vụ.
+Cảm ơn anh em đã tin tưởng và sử dụng.
+
+**Trong thời gian sắp tới:**
+1/ Clone giọng trực tiếp trên web sẽ mở lại
+2/ Cải thiện cơ chế tạo giọng đọc với Elevenlabs (tăng tốc và đảm bảo sự ổn định).
+3/ Demo các tính năng tạo ảnh AI miễn phí và trả phí (tạo hàng nghìn ảnh cực nhanh)
+...
+
+
+**Cập nhật tính năng mới cho Video Tools**
+- Thêm tính năng tạo phụ đề từ Sub cứng trong video
+- Fix lỗi download video QQ
+- Fix một số lỗi nhỏ khác.
+
+- 
 ## Phiên bản cập nhật 2.8.4 (2025-07-25):
 **Cập nhật tính năng mới cho Video Tools**
 - Thêm tính năng tạo phụ đề từ Sub cứng trong video
