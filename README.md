@@ -28,7 +28,7 @@ Cảm ơn anh em đã tin tưởng và sử dụng.
 - Fix lỗi download video QQ
 - Fix một số lỗi nhỏ khác.
 
-- 
+ 
 ## Phiên bản cập nhật 2.8.4 (2025-07-25):
 **Cập nhật tính năng mới cho Video Tools**
 - Thêm tính năng tạo phụ đề từ Sub cứng trong video
