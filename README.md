@@ -38,6 +38,7 @@ Cảm ơn anh em đã tin tưởng và sử dụng.
 2/ Cải thiện cơ chế tạo giọng đọc với Elevenlabs (tăng tốc và đảm bảo sự ổn định).
 3/ Demo các tính năng tạo ảnh AI miễn phí và trả phí (tạo hàng nghìn ảnh cực nhanh)
 ...
+
 ---
 
 **Cập nhật tính năng mới cho Video Tools**
