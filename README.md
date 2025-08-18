@@ -21,6 +21,7 @@ Ngoài ra trong phiên bản này, NHQTools cũng đang thử nghiệm phương 
 + Thêm tính năng tự động nhận dạng giới tính (Nam, Nữ và giọng dẫn) cho file phụ đề sử dụng AI.
 
 **Cảm ơn anh em đã đồng hành cùng NHQTools!**
+
 ---
 
 ## Phiên bản cập nhật 2.9.3 (2025-08-09):
