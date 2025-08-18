@@ -7,6 +7,22 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Facebook: https://www.facebook.com/nhqtools/
 
 
+## Phiên bản cập nhật 2.9.8 (2025-08-18):
+
++ Cải thiện chất lượng dịch với Gemini
++ Cho phép viết lại nội dung video (dịch cùng ngôn ngữ)
++ Fix một số bug nhỏ khác.
+ 
+Ngoài ra trong phiên bản này, NHQTools cũng đang thử nghiệm phương thức dịch sử dụng tài khoản Google thay vì sử dụng API để tránh bị limited khi request số lượng lớn.
+
+**Anh em cùng chuẩn bị đón chờ phiên bản cập nhật với các tính năng mới:**
++ Hỗ trợ ngắt nghỉ ngẫu nhiên thời gian để file giọng đọc tự nhiên hơn, như người thật hơn.
++ Hỗ trợ lồng tiếng nhiều giọng cho video khi sử dụng Q-CLONE
++ Thêm tính năng tự động nhận dạng giới tính (Nam, Nữ và giọng dẫn) cho file phụ đề sử dụng AI.
+
+**Cảm ơn anh em đã đồng hành cùng NHQTools!**
+---
+
 ## Phiên bản cập nhật 2.9.3 (2025-08-09):
 + Cải thiện tạo giọng với Minimax
 + Tăng tốc gấp hơn 4 lần với Recut trong Video Tools
@@ -21,7 +37,7 @@ Cảm ơn anh em đã tin tưởng và sử dụng.
 2/ Cải thiện cơ chế tạo giọng đọc với Elevenlabs (tăng tốc và đảm bảo sự ổn định).
 3/ Demo các tính năng tạo ảnh AI miễn phí và trả phí (tạo hàng nghìn ảnh cực nhanh)
 ...
-
+---
 
 **Cập nhật tính năng mới cho Video Tools**
 - Thêm tính năng tạo phụ đề từ Sub cứng trong video
