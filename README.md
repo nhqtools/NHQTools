@@ -6,6 +6,16 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản cập nhật 3.0.8 (2025-08-26):
+
++ Thêm tính năng download Full kênh trên Baidu (haokan)
+
+Anh em có thể tham khảo thêm lịch sử cập nhật trên website chính thức của NHQTools
+
+> https://nhq.tools/vi/docs/nhq-vid/change-logs
+
+---
+
 
 ## Phiên bản cập nhật 2.9.8 (2025-08-18):
 
