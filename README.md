@@ -6,6 +6,16 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+
+## Phiên bản cập nhật 3.2.3 và 3.2.4:
+
++ Thêm tính năng dịch chậm, đảm bảo dịch sát nghĩa
++ Dịch chậm với tuỳ chọn phogn cách như: Phim - Huyền Huyễn, Phim - Cổ Trang, Phim - Tổng Tài...
++ Fix một số bug khác.
+
+---
+
+
 ## Phiên bản cập nhật 3.0.8 (2025-08-26):
 
 + Thêm tính năng download Full kênh trên Baidu (haokan)
@@ -16,11 +26,7 @@ Anh em có thể tham khảo thêm lịch sử cập nhật trên website chính
 
 ---
 
-## Phiên bản cập nhật 3.2.3 và 3.2.4:
 
-+ Thêm tính năng dịch chậm, đảm bảo dịch sát nghĩa
-+ Dịch chậm với tuỳ chọn phogn cách như: Phim - Huyền Huyễn, Phim - Cổ Trang, Phim - Tổng Tài...
-+ Fix một số bug khác.
 
 ## Phiên bản cập nhật 2.9.8 (2025-08-18):
 
