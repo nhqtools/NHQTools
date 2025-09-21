@@ -6,6 +6,15 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản 3.2.6 cập nhật 21.09.2025:
+
+- Thêm cấu hình ngắt nghỉ cho **NHQ-2**: Anh em có thể ngắt nghỉ với tuỳ chọn **[pause:Xs]** ví dụ **[pause:3s]**; Anh em lưu ý là nếu để cấu hình ngắt nghỉ với [pause] thì tốc độ tạo giọng sẽ chậm hơn.
+- Cải thiện hiệu suất **tạo giọng theo phụ đề** (đối với giọng Q-CLONE); Tốc độ tạo giọng nhanh hơn nhiều.
+- Fix lỗi tạo giọng với **CHATGPT Custom**.
+- **Tạo phân cảnh: Beta**, còn cần theo dõi và phát triển thêm (chưa bao gồm xuất capcut).
+- Fix các lỗi khác.
+
+---
 
 ## Phiên bản cập nhật 3.2.3 và 3.2.4:
 
