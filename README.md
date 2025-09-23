@@ -6,6 +6,17 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản 3.2.8 cập nhật 23.09.2025:
+
+- Thêm cấu hình model tạo ảnh (**Nano Banana**, Model ICv3,2,1) khi tạo phân cảnh.
+- Thêm tạo **video AI từ prompt** (độ dài 10s)
+- Thêm tuỳ chọn add **Keyframes**, **effect duration** cho dự án capcut khi sử dụng tính năng ghép ảnh + audio.
+- Fix lỗi dịch chậm
+- Fix một số bug khác.
+
+---
+
+
 ## Phiên bản 3.2.6 cập nhật 21.09.2025:
 
 - Thêm cấu hình ngắt nghỉ cho **NHQ-2**: Anh em có thể ngắt nghỉ với tuỳ chọn **[pause:Xs]** ví dụ **[pause:3s]**; Anh em lưu ý là nếu để cấu hình ngắt nghỉ với [pause] thì tốc độ tạo giọng sẽ chậm hơn.
