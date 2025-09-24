@@ -6,6 +6,16 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản 3.2.9 cập nhật 24.09.2025:
+
+- Thêm tuỳ chọn tạo lại hoặc không tạo lại ảnh và video khi sử dụng tính năng tạo phân cảnh tự động.
+- Fix lỗi tải video từ Tiktok và BiliBili.
+- Fix lỗi tải video VIP v.qq.com (chỉ áp dụng với ai có tài khoản VIP).
+- Fix một số bug khác.
+
+---
+
+
 ## Phiên bản 3.2.8 cập nhật 23.09.2025:
 
 - Thêm cấu hình model tạo ảnh (**Nano Banana**, Model ICv3,2,1) khi tạo phân cảnh.
