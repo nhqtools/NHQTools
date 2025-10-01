@@ -6,6 +6,21 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản 3.3.6 cập nhật 01.10.2025:
+- Fix lỗi tải video trong Video Tools (một số máy tải bị lỗi do không cập nhật được).
+- Cải thiện tính năng dịch chậm: Thêm các tuỳ chọn bổ sung khi dịch (phong cách dịch, thông tin yêu cầu bổ sung); ổn định hơn khi dịch. Anh em nào có tài khoản gemini pro có thể thêm vào tool và tăng số dòng dịch 1 lần lên 500 để nhanh hơn và chuẩn hơn (sử dụng model gemini 2.5 pro); (Tài khoản anh có thể mua với giá 12k trên taphoammo nếu cần, còn không thì theo mình dùng tài khoản Free cũng vẫn ok).
+- Fix lỗi hiển thị % tiến trình khi tạo giọng đọc trong Video Tools; Thông báo chi tiết các Index (dòng phụ đề) nào lỗi khi chạy để anh em có thể kiểm tra lại và chạy lại nhanh nếu cần.
+- Cải thiện tính năng tạo phân cảnh (Thêm tạo phân cảnh nhanh - Thêm tuỳ chọn số phân cảnh tạo mỗi bước); Ổn định hơn và nhanh hơn.
+
+NHQTools cũng chuẩn bị ra mắt các tính năng mới:
+- Tích hợp tạo phụ đề tự động từ capcut (tích hợp thẳng capcut vào trong Tools)
+- Tích hợp tách nhạc nền, giọng đọc từ capcut (tích hợp trong Tools)
+
+Đặc biệt: Chuẩn bị ra mắt tính năng tạo Video Veo3 không giới hạn, chạy đa luồng, có thể tạo 10 video/ phút.
+
+---
+
+
 ## Phiên bản 3.2.9 cập nhật 24.09.2025:
 
 - Thêm tuỳ chọn tạo lại hoặc không tạo lại ảnh và video khi sử dụng tính năng tạo phân cảnh tự động.
