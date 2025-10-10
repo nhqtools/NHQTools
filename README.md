@@ -6,6 +6,16 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+## Phiên bản 3.4.8 cập nhật 10.10.2025:
+- Fix lỗi lag giật khi xoá phụ đề, thêm phụ đề trên web. Bây giờ với vài nghìn dòng phụ đề khi thêm hoặc xoá phụ đề không còn tình trạng lag nữa.
+- Thêm tuỳ chọn chọn kiểu KeyFrames khi sử dụng tính năng ghép ảnh và audio.
+- Tự động kiểm tra ngôn ngữ sau khi dịch, đảm bảo rà soát toàn bộ các phụ đề đã dịch để anh em chủ động xem lại các phụ đề chưa dịch hoặc lỗi khi dịch.
+- Fix lỗi tạo giọng đọc tiếng Việt khi có các phụ đề ngôn ngữ khác.
+- Fix một số bug khác.
+
+---
+
+
 ## Phiên bản 3.3.6 cập nhật 01.10.2025:
 - Fix lỗi tải video trong Video Tools (một số máy tải bị lỗi do không cập nhật được).
 - Cải thiện tính năng dịch chậm: Thêm các tuỳ chọn bổ sung khi dịch (phong cách dịch, thông tin yêu cầu bổ sung); ổn định hơn khi dịch. Anh em nào có tài khoản gemini pro có thể thêm vào tool và tăng số dòng dịch 1 lần lên 500 để nhanh hơn và chuẩn hơn (sử dụng model gemini 2.5 pro); (Tài khoản anh có thể mua với giá 12k trên taphoammo nếu cần, còn không thì theo mình dùng tài khoản Free cũng vẫn ok).
