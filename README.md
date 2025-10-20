@@ -6,6 +6,23 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+---
+
+## Phiên bản 3.6.2 cập nhật 20.10.2025:
+- Thử nghiệm tính năng tạo video VEO 3.1 không giới hạn kết hợp trong tạo phân cảnh.
+- Cải thiện tính năng dịch chậm (anh em nào có tài khoản pro thì sử dụng model 2.5-pro cho nhanh hơn nhé)
+
+Do Elevenlabs và Minimax thay đổi cơ chế, hiện tại việc tạo giọng từ Elevenlabs cũng như Q-CLONE có thể sẽ bị chậm vào một số thời điểm, nên khi chậm anh em chịu khó chờ. (Có thể stop lại, sau đó chạy lại vào thời điểm khác).
+Tuy nhiên, anh em lưu ý: Không thay đổi nội dung văn bản, nếu thay đổi thì sẽ bị tính phí là một văn bản mới.
+---------------------------------------------------
+Đối với các anh làm review phim, chưa biết cách để tối ưu quá trình làm việc thì chịu khó xem các video hướng dẫn, và tìm hiểu thêm tài liệu trên website để hiểu bản chất của các thông số cũng như cấu hình.
+---------------------------------------------------
+
+Do bận công việc, nên từ giờ có thể mình sẽ ít reply các tin nhắn support hơn.
+
+**Cảm ơn anh em đã đồng hành**
+---
+
 ## Phiên bản 3.4.8 cập nhật 10.10.2025:
 - Fix lỗi lag giật khi xoá phụ đề, thêm phụ đề trên web. Bây giờ với vài nghìn dòng phụ đề khi thêm hoặc xoá phụ đề không còn tình trạng lag nữa.
 - Thêm tuỳ chọn chọn kiểu KeyFrames khi sử dụng tính năng ghép ảnh và audio.
