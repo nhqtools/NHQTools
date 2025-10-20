@@ -24,7 +24,9 @@ Tuy nhiên, anh em lưu ý: Không thay đổi nội dung văn bản, nếu thay
 Do bận công việc, nên từ giờ có thể mình sẽ ít reply các tin nhắn support hơn.
 
 **Cảm ơn anh em đã đồng hành**
+
 ---
+
 
 ## Phiên bản 3.4.8 cập nhật 10.10.2025:
 - Fix lỗi lag giật khi xoá phụ đề, thêm phụ đề trên web. Bây giờ với vài nghìn dòng phụ đề khi thêm hoặc xoá phụ đề không còn tình trạng lag nữa.
