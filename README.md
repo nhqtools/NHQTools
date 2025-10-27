@@ -8,6 +8,20 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v3.7.1 - 27.10.2025:
+
+- Cải thiện tạo giọng với ChatGPT (fix lỗi tạo giọng bị sai);
+- Public tính năng dịch chậm (sử dụng model Gemini 2.5 Pro) mà không cần API, không cần tài khoản google, không cần cookie;
+- Thêm tuỳ chọn sử dụng tài khoản NHQ trong tạo phân cảnh (TTS STUDIO) - Đảm bảo tạo phân cảnh ổn định (mình đã test nhiều và tỷ lệ là 100% không lỗi, anh em có thể trải nghiệm thêm);
+- Fix một số bug khác.
+
+Video tham khảo tính năng dịch chậm (sử dụng tài khoản NHQ):
+https://youtu.be/YSc30FmHZnQ
+
+
+---
+
+
 ## Phiên bản 3.6.2 cập nhật 20.10.2025:
 - Thử nghiệm tính năng tạo video VEO 3.1 không giới hạn kết hợp trong tạo phân cảnh.
 - Cải thiện tính năng dịch chậm (anh em nào có tài khoản pro thì sử dụng model 2.5-pro cho nhanh hơn nhé)
