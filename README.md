@@ -8,6 +8,20 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+
+## Cập nhật Phiên bản v3.7.9 - 05.11.2025:
+
+ Fix lỗi cập nhật Video Downloader trong Video Tools;
+- Public tính năng tạo video VEO 3 sử dụng nhiều tài khoản cùng lúc tăng tốc tạo video (có thể tạo hàng trăm video / 1 phút).
+- Cải thiện dịch chậm khi sử dụng tài khoản NHQ: Sẽ hiển thị chi tiết các dòng phụ đề cần lưu ý để anh em check lại nếu cần.
+- Fix lỗi không hiển thị thumbs khi tạo video VEO 3.
+- Fix một số bug khác.
+
+Video demo tính năng tạo Video VEO 3 sử dụng nhiều tài khoản:
+https://www.youtube.com/watch?v=CuNX6hggCp0
+
+---
+
 ## Cập nhật Phiên bản v3.7.1 - 27.10.2025:
 
 - Cải thiện tạo giọng với ChatGPT (fix lỗi tạo giọng bị sai);
