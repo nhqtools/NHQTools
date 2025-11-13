@@ -8,6 +8,17 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v3.8.3 - 13.11.2025:
+
+- Fix một số lỗi trong Video Tools (bug thêm phụ đề vào video);
+- Thêm tính năng đồng nhất nhân vật bằng hình ảnh tham chiếu cho Whisk và VEO (sẽ có Video hướng dẫn trên kênh sau).
+- Fix một số bug khác.
+
+## Video:
+https://www.youtube.com/watch?v=44rc5-dLbTw
+
+---
+
 
 ## Cập nhật Phiên bản v3.7.9 - 05.11.2025:
 
