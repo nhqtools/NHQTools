@@ -8,6 +8,17 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v4.0.5 - 10.11.2025:
+
+- Cải thiện trải nghiệm tạo giọng đọc với Elevenlabs.
+- Thêm tuỳ chọn tạo ảnh với NanoBanana và Imagen4 trong phân cảnh.
+- Fix lỗi tạo VEO 3 video dọc
+- Fix lỗi tạo phụ đề tự động khi sử dụng Whisper Cloud
+
+
+ 
+---
+
 ## Cập nhật Phiên bản v3.8.3 - 13.11.2025:
 
 - Fix một số lỗi trong Video Tools (bug thêm phụ đề vào video);
