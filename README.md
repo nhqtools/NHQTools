@@ -8,6 +8,14 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v4.2.1 - 03.01.2026:
+
+- Mở lại dịch vụ tạo giọng MINIMAX (v2): Clone không giới hạn, giá siêu rẻ
+- Fix bug
+
+---
+
+
 ## Cập nhật Phiên bản v4.0.5 - 10.11.2025:
 
 - Cải thiện trải nghiệm tạo giọng đọc với Elevenlabs.
