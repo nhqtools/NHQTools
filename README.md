@@ -8,6 +8,26 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+
+## Cập nhật Phiên bản v4.6.0 - 09.02.2026:
+
+- Preview OCR trực trước khi tách sub cứng để đảm bảo khung layout chuẩn xác.
+- Thêm tính năng kiểm tra các từ tiếng Trung còn trong phụ đề sau khi dịch
+- Thêm tính năng tối ưu CPS (character per second) để các đoạn video bị điều chỉnh là ít nhất, giúp capcut load nhanh hơn, render nhanh hơn.
+- Thêm tuỳ chọn tạo chính xác số cảnh khi sử dụng tính năng tạo phân cảnh trong TTS STUDIO.
+- Cải thiện chất lượng, hiệu suất Q-CLONE2
+- Thêm tính năng cắt chính xác thời gian khi sử dụng Công cụ Tách video trong Công cụ nhanh
+- Thêm tuỳ chọn xoá các phụ đề không phải tiếng Việt trước khi tạo giọng đọc với VCLONE và Q-CLONE2
+- Cải thiện cơ chế làm sạch phụ đề sau dịch
+- Thêm tuỳ chọn đặt tên file đầu ra theo tiêu đề trong TTS STUDIO
+- Đặt tên file đầu ra theo các file đầu vào (trường hợp tạo nhiều file cùng một lúc).
+- Fix lỗi tải file ảnh (phân cảnh) khi dùng NanoBanana, Whisk và FImage.
+- Thêm module tạo Video VEO3 không cần tài khoản (BETA).
+- Cải thiện trải nghiệm với MINIMAX
+- Fix một số bug khác.
+
+---
+
 ## Cập nhật Phiên bản v4.2.4 - 11.01.2026:
 
 - Thêm dịch vụ tạo giọng chất lượng cao chỉ áp dụng với một số khách hàng (https://www.youtube.com/watch?v=hTJt3EQptGI)
