@@ -8,6 +8,16 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v4.6.4 - 13.02.2026:
+
+- Cải tiến tính năng tách nhạc nền và giọng đọc (cả trong QuickTools và khi xuất)
+- Cải thiện các phong cách dịch, thêm một số phong cách dịch (sinh tồn, phật pháp, hướng dẫn, hoạt hình trung quốc - Gấu)
+- Fix bug
+
+Video hướng dẫn tính năng Tách nhạc nền và giọng đọc:
+https://www.youtube.com/watch?v=nQ0bNS2-_kQ
+
+----
 
 ## Cập nhật Phiên bản v4.6.0 - 09.02.2026:
 
