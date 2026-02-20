@@ -8,6 +8,18 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v4.7.4 - 20.02.2026:
+
+- Cải thiện tính năng phân giong Nam, Nữ (độ chuẩn xác ~98%)
+- Fix lỗi stop tiến trình (stop toàn bộ các tiến trình con khi OCR)
+- Fix bug tối ưu CPS và rà soát tiếng Trung
+- Thêm model dịch Gemini Pro 3.1 (Preview) - Beta
+- Fix một số bug khác.
+
+  
+
+---
+
 ## Cập nhật Phiên bản v4.6.4 - 13.02.2026:
 
 - Cải tiến tính năng tách nhạc nền và giọng đọc (cả trong QuickTools và khi xuất)
