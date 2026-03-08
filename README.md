@@ -8,6 +8,12 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v4.9.1 - 08.03.2026:
+- Hỗ trợ chạy cửa sổ client, mở trình tab trình duyệt và thực hiện nhiều tác vụ cùng lúc.
+- Cải thiện thông báo lỗi dịch chậm.
+- Fix bug
+
+---
 ## Cập nhật Phiên bản v4.7.4 - 20.02.2026:
 
 - Cải thiện tính năng phân giong Nam, Nữ (độ chuẩn xác ~98%)
