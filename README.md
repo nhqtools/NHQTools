@@ -6,6 +6,20 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+
+---
+
+## Cập nhật Phiên bản v4.9.3 - 09.03.2026:
+
+- Hỗ trợ cắt audio thông minh (cắt các phần lặng không cần thiết một cách thông minh) khi xuất video capcut (trước đây chỉ hỗ trợ xuất theo frames). 
+- Cải thiện tách sub cứng (trên các máy card hình đời cũ).
+- Fix lỗi dịch với Gemini (đảm bảo ổn định, có thể dùng model 3.1 pro ổn định); Lưu ý: Khi dùng model 3.x anh em nên để số luồng dịch tối đa là 5 thôi nhé, tránh lỗi giới hạn.
+- Fix lỗi tải file bị thiếu khi tạo giọng với VCLONE trong video tools.
+- Fix lỗi tách nhạc nền và giọng đọc khi xuất video (trên Windows 10).
+- Cải thiện tạo phân cảnh, đảm bảo ổn định hơn.
+- Fix bug.
+
+  
 ---
 
 ## Cập nhật Phiên bản v4.9.1 - 08.03.2026:
