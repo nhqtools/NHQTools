@@ -9,6 +9,18 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v5.0.4 - 22.03.2026
+Phiên bản 5.0.4
+- Tạo Video VEO 3, Sora2, Seedance 1.5 Pro đã hoạt động trở lại
+- Tạo ảnh với Qi2, Qi2 NanoBanana hoạt động trở lại
+- Thêm phương thức tạo ảnh Banana 2 (Ultra 2k-4k)
+- VIP CLONE cũng hoạt động trở lại và ổn định hơn.
+- Hỗ trợ keyframes 2 ảnh/1 cảnh khi sử dụng ghép ảnh và video (tăng độ unique video)
+- Fix lỗi mở dự án bị đóng luôn khi dùng capcut mới nhất. Hiện tại, dùng đã dùng được mọi phiên bản capcut.
+
+
+---
+
 ## Cập nhật Phiên bản v4.9.3 - 09.03.2026:
 
 - Hỗ trợ cắt audio thông minh (cắt các phần lặng không cần thiết một cách thông minh) khi xuất video capcut (trước đây chỉ hỗ trợ xuất theo frames). 
