@@ -6,6 +6,16 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Youtube: https://www.youtube.com/@nhqtools
 - Facebook: https://www.facebook.com/nhqtools/
 
+---
+
+
+## Cập nhật Phiên bản v5.1.2 - 30.03.2026
+
+- Bổ sung dịch phụ đề bằng Grok
+- Fix bug keyframes với zoom = 1
+- Fix bug
+
+Trong phiên bản sắp tới sẽ thêm tạo ảnh và video bằng GROK.
 
 ---
 
