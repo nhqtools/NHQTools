@@ -8,6 +8,15 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v5.1.3 - 31.03.2026
+
+- Fix lỗi OCR với các phụ đề lệch trái, lệch phải. Tối ưu rà soát phụ đề, đảm bảo tỷ lệ bỏ sót khi OCR là thấp nhất.
+- Beta tính năng tạo ảnh, tạo Video với Grok
+- Fix bug khác.
+
+Dự kiến sẽ thêm tuỳ chọn add tài khoản VEO ultra để chủ động tạo ảnh và Video.
+
+---
 
 ## Cập nhật Phiên bản v5.1.2 - 30.03.2026
 
