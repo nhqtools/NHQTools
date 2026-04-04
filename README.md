@@ -8,6 +8,17 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v5.1.6 - 04.04.2026
+
+- Thêm tuỳ chọn số ký tự tối đa / dòng phụ đề khi sử dụng NHQ-Latin (hạn chế dòng phụ đề dài khi xuất Capcut hiển thị sẽ không đẹp)
+- Thêm tuỳ chọn init Grok trước khi tạo ảnh và video; Fix lỗi cookies Grok
+- Thêm tuỳ chọn tạo ảnh với Imagen4 (Flow), Nano Banana 2 (Flow), Nano Banana Pro (Flow); Tạo video VEO 3.1 với Flow (Anh em có thể chủ động thêm tài khoản Google để tạo ảnh, video trong Flow); Có thể nhập project ID có sẵn để theo dõi trực tiếp nếu cần.
+- Fix lỗi tạo ảnh, video khi dùng Grok (Anh em lưu ý cần Init Grok trước khi sử dụng)
+- Thêm tính năng cho phép bổ sung phong cách ảnh khi tạo phân cảnh (chủ động đưa prompt phong cách để tạo ảnh theo ý muốn)
+- Fix bug
+
+---
+
 ## Cập nhật Phiên bản v5.1.3 - 31.03.2026
 
 - Fix lỗi OCR với các phụ đề lệch trái, lệch phải. Tối ưu rà soát phụ đề, đảm bảo tỷ lệ bỏ sót khi OCR là thấp nhất.
