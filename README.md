@@ -8,6 +8,28 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v5.2.0 - 06.04.2026
+
+- Beta tính năng tóm tắt video, hiện tại Free với anh em đang dùng Video Tools (sau giai đoạn beta sẽ áp dụng kèm bảng giá mới cho toàn bộ Tool).
+- Fix bug
+
+Anh em xem hướng dẫn tóm tắt video tại đây:
+https://www.youtube.com/watch?v=Z3wRpAglWTg
+
+Tóm tắt hỗ trợ nhiều ngôn ngữ, mỗi lần thực hiện tóm tắt sẽ ra một kết quả khác nhau, do đó anh em có thể tạo nhiều video review cho 1 video gốc.
+
+Hiện tại, tính năng public với tất cả các anh em dùng Video Tools, sẽ có thay đổi sau thời gian beta.
+
+Video gốc mình dùng trong hướng dẫn:
+https://www.youtube.com/watch?v=j0zYjQYaep0
+Và video thành phẩm test:
+https://drive.google.com/file/d/1lLYt5F67YQMx2k4OrnSS1Ta02ACqdda0/view
+
+Mời anh em sử dụng.
+Trân trọng!
+
+---
+
 ## Cập nhật Phiên bản v5.1.6 - 04.04.2026
 
 - Thêm tuỳ chọn số ký tự tối đa / dòng phụ đề khi sử dụng NHQ-Latin (hạn chế dòng phụ đề dài khi xuất Capcut hiển thị sẽ không đẹp)
