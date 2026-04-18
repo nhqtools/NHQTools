@@ -8,6 +8,15 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v5.3.4 - 18.04.2026
+- Fix lỗi số phân cảnh không hợp lệ với kịch bản tiếng Nhật
+- Fix lỗi tải ảnh nhân vật đã lưu
+- Cải thiện hiệu suất tạo ảnh (tăng số luồng chạy default lên 10 luồng)
+- Thêm cơ chế add nhiều tài khoản để tạo ảnh số lượng lớn (mỗi tài khoản google tạo bình thường được ~1k ảnh/ ngày).
+- Fix bug
+
+---
+
 ## Cập nhật Phiên bản v5.2.0 - 06.04.2026
 
 - Beta tính năng tóm tắt video, hiện tại Free với anh em đang dùng Video Tools (sau giai đoạn beta sẽ áp dụng kèm bảng giá mới cho toàn bộ Tool).
