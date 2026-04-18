@@ -13,6 +13,7 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 - Fix lỗi tải ảnh nhân vật đã lưu
 - Cải thiện hiệu suất tạo ảnh (tăng số luồng chạy default lên 10 luồng)
 - Thêm cơ chế add nhiều tài khoản để tạo ảnh số lượng lớn (mỗi tài khoản google tạo bình thường được ~1k ảnh/ ngày).
+- Cải thiện OCR
 - Fix bug
 
 ---
