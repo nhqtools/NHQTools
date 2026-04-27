@@ -8,6 +8,15 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v5.4.3 (27.04.2026)
+THÔNG BÁO CẬP NHẬT
+Phiên bản v5.4.3
+- Hỗ trợ tạo giọng đọc với Elevenlabs trong Video Tools và tạo phân cảnh
+- Bỏ dịch vụ tạo giọng NHQ-3
+- Fix bug
+  
+---
+
 ## Cập nhật Phiên bản v5.3.4 - 18.04.2026
 - Fix lỗi số phân cảnh không hợp lệ với kịch bản tiếng Nhật
 - Fix lỗi tải ảnh nhân vật đã lưu
