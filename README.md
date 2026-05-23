@@ -8,6 +8,21 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật Phiên bản v5.6.2 (23.05.2026)
+THÔNG BÁO CẬP NHẬT
+
+Phiên bản v5.6.2
+- Cải thiện tạo giọng F5-TTS: tránh treo task quá lâu, cải thiện lỗi
+- Mở lại tạo ảnh trong Flow (Banana 2, Banana Pro, Imagen 4): Không giới hạn, tự động thay đổi tài khoản khi hết quota, khi bị giới hạn (anh em có thể tự add nhiều tài khoản vào tool để chủ động)
+- Hỗ trợ tạo giọng đọc Elevenlabs không giới hạn, cả giọng VIP, model v2.5 và v3 đầy đủ.
+- Fix bug
+
+Hướng dẫn tạo ảnh trong Flow với NHQTools
+https://youtu.be/1qosGV2AZyA
+
+---
+
+
 ## Cập nhật Phiên bản v5.4.3 (27.04.2026)
 THÔNG BÁO CẬP NHẬT
 Phiên bản v5.4.3
