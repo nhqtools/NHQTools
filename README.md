@@ -18,7 +18,7 @@ Phiên bản v5.6.2
 - Fix bug
 
 Hướng dẫn tạo ảnh trong Flow với NHQTools
-https://youtu.be/1qosGV2AZyA
+https://youtu.be/DQykXjiKKZk
 
 ---
 
