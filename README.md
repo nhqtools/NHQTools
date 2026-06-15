@@ -8,6 +8,20 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật phiên bản v5.7.5 (15.06.2026)
+
+- Hỗ trợ tải video theo ngôn ngữ lồng tiếng tự động của Youtube
+- Hạn chế việc bị chặn khi tải quá nhiều từ Youtube
+- Fix lỗi tách file, cải thiện chất lượng VIP CLONE2
+
+
+VIP CLONE chính thức dừng hoạt động, một số giọng được đồng bộ sang VIP CLONE2
+Hai địch vụ sử dụng cùng model, chỉ khác nhau về cách xử lý.
+Với VIP CLONE2 thì có hỗ trợ cả cho lồng tiếng theo phụ đề trong Video Tools.
+
+---
+
+
 ## Cập nhật Phiên bản v5.6.2 (23.05.2026)
 THÔNG BÁO CẬP NHẬT
 
