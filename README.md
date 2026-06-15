@@ -16,7 +16,9 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 
 VIP CLONE chính thức dừng hoạt động, một số giọng được đồng bộ sang VIP CLONE2
+
 Hai địch vụ sử dụng cùng model, chỉ khác nhau về cách xử lý.
+
 Với VIP CLONE2 thì có hỗ trợ cả cho lồng tiếng theo phụ đề trong Video Tools.
 
 ---
