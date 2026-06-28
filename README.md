@@ -8,6 +8,17 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật phiên bản v5.7.8 (28.06.2026)
+
+- Beta tuỳ chọn OCR tốc độ cao (video 2h OCR 5-10 phút tuỳ video, thời điểm);
+- Hỗ trợ lồng tiếng nhiều giọng khi dùng VIP-CLONE2;
+- Fix bug ghép video, tách nhạc nền và giọng đọc trong Công cụ nhanh (trên Windows 10);
+- Fix bug tải video theo phần (trong danh sách phát của Bilibili);
+- Fix bug khác.
+
+
+---
+
 ## Cập nhật phiên bản v5.7.5 (15.06.2026)
 
 - Hỗ trợ tải video theo ngôn ngữ lồng tiếng tự động của Youtube
