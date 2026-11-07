@@ -8,6 +8,19 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
+## Cập nhật phiên bản v6.6.0 (07.11.2026)
+
+- Tối ưu trải nghiệm dịch với AIStudio
+- Thêm tuỳ chọn rà soát, làm sạch, tối ưu phụ đề bằng AI khi sử dụng phương thức tạo phụ đề NHQ-ZH. Đảm bảo phụ đề tạo ra hoàn thiện nhất có thể (loại bỏ các âm thanh cảm xúc như hừ, haizz, á, ớ... Loại bỏ các phụ đề được tạo ra từ bài hát có lời trong video, tối ưu lại hội thoại nếu có sai sót, nhất quán xưng hô...).
+Anh em lưu ý: Nếu video không có nhạc nền (nguồn video đã được tách sẵn) thì có thể bỏ qua tuỳ chọn này để tiết kiệm thời gian. Việc rà soát phụ đề gốc sau khi tạo bằng AI có thể mất từ 2-5 phút tuỳ thời điểm. Do đó anh em cân nhắc.
+- Hiển thị chi tiết các thay đổi làm sạch, tối ưu sau khi tạo xong phụ đề để anh em xem lại, đồng thời lưu bản phụ đề nguyên bản để anh em tiện đối chiếu nếu cần.
+- Không cần click menu NHQ_Resolve_Import trong DaVinci Resolve nữa, tool sẽ tự động import khi xuất (Tránh trường hợp anh em tạo một loạt dự án rồi mới mở thì khi click menu NHQ_Resolve_Import, Resolve sẽ import dự án mới nhất).
+- Tự động chuẩn hoá âm thanh khi xuất mà sử dụng tách nhạc nền và giọng đọc bằng demucs (nếu trước đó đã có file audio).
+- Fix bug
+
+
+---
+
 ## Cập nhật phiên bản v5.7.8 (28.06.2026)
 
 - Beta tuỳ chọn OCR tốc độ cao (video 2h OCR 5-10 phút tuỳ video, thời điểm);
