@@ -8,14 +8,14 @@ Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ đ
 
 ---
 
-## Cập nhật phiên bản v6.7.1 (12.11.2026)
+## Cập nhật phiên bản v6.7.1 (13.11.2026)
 
 - Thêm model dịch mới nhất nhà Gemini (Gemini 4 Hydrogen)
 - Fix bug
 
 ---
 
-## Cập nhật phiên bản v6.7.0 (12.11.2026)
+## Cập nhật phiên bản v6.7.0 (11.11.2026)
 
 - Fix lỗi tải video từ Hongguo (tải nhanh hơn, ghép file nhanh hơn, tối ưu trên các thiết bị khác nhau)
 - Fix bug
